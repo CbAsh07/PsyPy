@@ -1,4 +1,4 @@
-<h1>PsyPy: An application employing Python based Machine Learning methods for data analysis of Psychiatric diseases</h1>
+<h1>PsyPy: An application employing Python based Machine Learning methods for data analysis of Psychiatric diseases (2022) </h1>
 
 <h2>Description</h2>
 <p>
